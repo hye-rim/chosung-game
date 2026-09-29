@@ -1,0 +1,13 @@
+{
+  "name": "chosung-game",
+  "version": "1.0.0",
+  "description": "훈민정음(초성 게임): 혼자 점수 도전, 방 코드로 친구와 온라인",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.21.3"
+  }
+}
