@@ -11,7 +11,7 @@
 
 ```bash
 npm install
-npm start        # PORT 환경변수로 포트 지정 (기본 3000)
+npm start        # PORT 환경변수로 포트 지정 (기본 3005)
 ```
 
 작은 오락실 로비에서는 서버 게임으로 함께 실행되며 `/chosung/` 아래로 연결돼요.
